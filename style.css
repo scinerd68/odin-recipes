@@ -1,0 +1,44 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+html {
+    background-color: rgb(211, 193, 171);
+}
+
+img {
+    display: block;
+    height: 400px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Brush Script MT", cursive;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: "Trebuchet MS", serif;
+    font-size: 30px;
+    color:rgb(101, 33, 190)
+}
+
+#recipe-list {
+    color: black;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+.recipe-element {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.recipe-element:hover {
+    color: rgb(26, 131, 192);
+    text-decoration: underline;
+}
